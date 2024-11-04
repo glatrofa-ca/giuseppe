@@ -1,5 +1,4 @@
 Console.WriteLine("ciao");
-
-Console.WriteLine("Questo potrebbe risultare in un conflitto");
+nflitto");
 
 Console.WriteLine("ciao1");
