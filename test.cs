@@ -1,4 +1,5 @@
 Console.WriteLine("ciao");
-nflitto");
 
-Console.WriteLine("ciao1");
+Console.WriteLine("Questo è un conflitto ciao msette");
+
+Console.WriteLine("si offrono le peroni allo stadio");
