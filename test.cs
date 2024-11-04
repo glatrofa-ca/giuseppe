@@ -1,5 +1,5 @@
 Console.WriteLine("ciao");
 
-Console.WriteLine("Questo potrebbe risultare in un conflitto");
+Console.WriteLine("Questo è un conflitto");
 
-Console.WriteLine("ciao1");
+Console.WriteLine("si offrono le peroni allo stadio");
